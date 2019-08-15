@@ -2,8 +2,7 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import random
-import time
-from math import pi,e
+
 
 
 def findmean(arr,l):
